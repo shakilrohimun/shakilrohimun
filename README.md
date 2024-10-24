@@ -14,6 +14,7 @@ I am actively seeking an end-of-study conventioned internship starting in April 
   - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
   - ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
   - ![VBA](https://img.shields.io/badge/-VBA-1F2A44?style=flat&logo=microsoft-office&logoColor=white)
+  - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
   - ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
   - ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=sqlite&logoColor=white)
   - ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
