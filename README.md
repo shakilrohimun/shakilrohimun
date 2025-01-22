@@ -18,6 +18,8 @@ I am actively seeking an end-of-study conventioned internship starting in April 
   - ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
   - ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=sqlite&logoColor=white)
   - ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
+  - ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+
 
 - **Key Subjects:**
   - Stochastic Calculus
